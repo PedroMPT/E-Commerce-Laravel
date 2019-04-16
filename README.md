@@ -39,6 +39,3 @@
 <div>
     <img src="https://user-images.githubusercontent.com/36573496/56173350-18d0d700-5fe5-11e9-8153-6709714f86b7.PNG" width = "800" height = "400"
 </div>
-
-
-
